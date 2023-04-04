@@ -490,6 +490,14 @@ footer {
     width: 375px;
     margin: 0 auto;
   }
+
+  #logos img {
+    height: 30px;
+    width: 52px;
+    margin-top: 50px;
+
+
+  }
 }
 
 /* tablet */
@@ -721,14 +729,24 @@ footer {
   /*four-section end*/
 
   /*five-section start*/
+  .five-section {
+    height: 520px;
+    width: 834px;
+
+
+
+  }
+
   #h22 {
     font-family: Roboto Slab;
     font-size: 32px;
+    margin-left: 72px;
   }
 
   .five-box {
     height: 261px;
     width: 458px;
+    margin-left: 72px;
   }
 
   .five-box p {
@@ -753,11 +771,92 @@ footer {
   .facebook img {
     height: 17px;
     width: 18px;
-     margin-left: 0;
+    margin-left: 0;
 
   }
 
   /*five-section end*/
+
+  /*six-section start*/
+  .six-section {
+    height: 451px;
+    width: 834px;
+
+  }
+
+  .Price-box h2 {
+    font-family: Roboto Slab;
+    font-size: 32px;
+    margin-left: 75px;
+    margin-top: 75px;
+  }
+
+  .price {
+    font-family: Roboto;
+    font-size: 14px;
+    margin-left: 75px;
+  }
+
+  .price span {
+    font-family: Roboto;
+    font-size: 46px;
+  }
+
+  .price-flex {
+    margin-left: 75px;
+  }
+
+  .price-p1 {
+    font-family: Roboto;
+    font-size: 14px;
+  }
+
+  .price-p2 {
+    font-family: Roboto;
+    font-size: 10px;
+    height: 40px;
+    width: 170px;
+  }
+
+  .price-p3 {
+    font-family: Roboto;
+    font-size: 14px;
+  }
+
+  .price-p4 {
+    font-family: Roboto;
+    font-size: 10px;
+    height: 40px;
+    width: 170px;
+  }
+
+  /*six section end*/
+
+
+  footer {
+    height: 225px;
+    width: 834px;
+  }
+
+  .logoo img {
+    height: 39px;
+    width: 66px;
+  }
+
+  .sosial-media img {
+    height: 19px;
+    width: 19px;
+  }
+
+  .footer-right img {
+    height: 15px;
+    width: 15px;
+  }
+
+  .footer-right a {
+    font-family: Roboto;
+    font-size: 14px;
+  }
 }
 
 /* desktop */
